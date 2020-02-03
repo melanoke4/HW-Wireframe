@@ -1,0 +1,130 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777477;
+    width: 960px;
+    font-size: 18px;
+    /* padding-left: 10%; */
+    /* position: absolute; */
+    margin: auto;
+}
+
+#header {
+    /* padding: 30px; */
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    /* margin-top: 15px; */
+    /* margin-bottom: 15px; */
+    /* width: 990px; */
+    background: #ebebeb;
+}
+
+#nav {
+    /* padding: 30px; */
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    /* margin-top: 15px; */
+    /* margin-bottom: 15px; */
+    /* margin: 25px 0px 25px; */
+    /* width: 990px; */
+    background: #ebebeb;
+}
+
+.together {
+    width: 960px;
+    /* padding: 30px; */
+    /* margin: 10px 0px 10px 0px; */
+    /* background: pink; */
+    display: inline-block;
+}
+
+#section {
+    background: #ebebeb;
+    text-align: center;
+    width: 495px;
+    float: left;
+    padding-top: 40px;
+    padding-bottom: 5px;
+    /* margin: 0 auto; */
+    /* margin-bottom: 15px; */
+}
+
+#aside {
+    background: #ebebeb;
+    text-align: center;
+    margin-left: 5px;
+    /* margin-bottom: 15px; */
+    width: 440px;
+    float: right;
+    /* height: 280px; */
+    /* width: 445px; */
+    padding-top: 30px;
+    padding-bottom: 297px;
+    /* margin: 0 auto; */
+}
+
+#footer {
+    /* padding: 30px; */
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    /* height: 100px; */
+    /* margin: 25px 0px 25px; */
+    /* width: 990px; */
+    background: #ebebeb;
+
+}
+
+#article {
+    color: #ebebeb;
+    background: #777;
+    position: relative;
+    /* height: 220px; */
+    width: 92%;
+    padding-top: 20px;
+    padding-bottom: 19px;
+    /* text-align: center; */
+    margin: 15px auto;
+    margin-top: 40px;
+}
+
+#headers {
+    color: #777;
+    /* font-size: 18px; */
+    background: #ebebeb;
+    text-align: center;
+    margin: 15px auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    /* margin: 15px auto; */
+    /* margin-top: 25px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#paragraph {
+    color: #777;
+    background: #ebebeb;
+    margin: 15px auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* text-align: center; */
+    /* height: 20%; */
+}
+
+#header, #nav, #footer {
+    padding: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+   
+
+/* float, padding, margin, display,
+ overflow, clear and text-align. */
+
